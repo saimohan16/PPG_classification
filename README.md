@@ -1,6 +1,6 @@
 # PPG_classification
 
-## This is the implementation of [An imperative diagnostic framework for PPG signal classification using GRU] paper(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K8OFSxwAAAAJ&citation_for_view=K8OFSxwAAAAJ:2osOgNQ5qMEC) 
+## This is the implementation of (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K8OFSxwAAAAJ&citation_for_view=K8OFSxwAAAAJ:2osOgNQ5qMEC) (An imperative diagnostic framework for PPG signal classification using GRU) paper
 
 Here's how to execute the code 
 ```
